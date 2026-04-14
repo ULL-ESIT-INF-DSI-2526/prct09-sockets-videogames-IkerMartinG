@@ -68,6 +68,11 @@ const server = net.createServer(socket => {
   });
 });
 
-server.listen(7777);
+export function startServer() {
+  server.listen(7777);
+  return server;
+}
+
 export default server;
+
 
