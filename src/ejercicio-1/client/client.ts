@@ -1,8 +1,3 @@
-/**
- * Cliente TCP para enviar peticiones al servidor.
- * @packageDocumentation
- */
-
 import net from "net";
 import chalk from "chalk";
 import { RequestType, ResponseType } from "../types/messages.js";

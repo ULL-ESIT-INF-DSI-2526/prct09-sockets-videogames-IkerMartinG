@@ -1,8 +1,3 @@
-/**
- * Servidor TCP para la práctica 9.
- * @packageDocumentation
- */
-
 import net from "net";
 import { RequestType, ResponseType } from "../types/messages.js";
 import { VideogameManager } from "../services/VideogameManager.js";

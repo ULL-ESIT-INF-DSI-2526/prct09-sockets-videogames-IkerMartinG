@@ -1,8 +1,3 @@
-/**
- * Gestor de videojuegos en el servidor.
- * @packageDocumentation
- */
-
 import path from "path";
 import fs from "fs";
 import { Videogame } from "../models/Videogame.js";

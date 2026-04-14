@@ -1,8 +1,3 @@
-/**
- * CLI del cliente usando yargs.
- * @packageDocumentation
- */
-
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
 import { sendRequest } from "../client/client.js";

@@ -1,8 +1,3 @@
-/**
- * Tipos de mensajes intercambiados entre cliente y servidor.
- * @packageDocumentation
- */
-
 import { Videogame } from "../models/Videogame.js";
 
 /**

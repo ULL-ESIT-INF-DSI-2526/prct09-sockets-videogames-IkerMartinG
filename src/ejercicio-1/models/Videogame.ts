@@ -1,8 +1,3 @@
-/**
- * Modelo de videojuego.
- * @packageDocumentation
- */
-
 export enum Platform {
   PC = "PC",
   PS5 = "PlayStation 5",

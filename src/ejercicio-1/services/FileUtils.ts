@@ -1,8 +1,3 @@
-/**
- * Funciones auxiliares para gestión de ficheros usando callbacks.
- * @packageDocumentation
- */
-
 import fs from "fs";
 import path from "path";
 
