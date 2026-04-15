@@ -24,6 +24,5 @@ export function startServer() {
   server.listen(9000);
   return server;
 }
-startServer();
 export default server;
 
